@@ -1,4 +1,4 @@
-# ud036_StarterCode
+# ud036_python_convert_html
 It takes movies created in enteraintment_center.py and uses fresh_tomatoes.py to turn them into a web page.
 
 ## Installing
